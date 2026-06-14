@@ -48,7 +48,7 @@ The regression model demonstrated excellent predictive performance and satisfied
 ## Repository Structure
 
 ```
-Marketing-ROI-Regression/
+Simple-Linear-Regression_Marketing-Analysis/
 │
 ├── regression_analysis.ipynb
 ├── market_sales_data.csv
