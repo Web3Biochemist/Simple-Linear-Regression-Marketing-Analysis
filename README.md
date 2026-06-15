@@ -51,6 +51,7 @@ The regression model demonstrated excellent predictive performance and satisfied
 Simple-Linear-Regression_Marketing-Analysis/
 │
 ├── regression_analysis.ipynb
+├── simple_linear_regression.ipynb - Colab.pdf
 ├── market_sales_data.csv
 ├── README.md
 └── requirements.txt
